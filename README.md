@@ -7,3 +7,5 @@ so
 1 + 2 = 3
 and so forth
 just run main.py and it will ask you how many times you would like Fibonacci to run
+
+Sorry for spagehtti code. I think it was 11pm when I made this.
